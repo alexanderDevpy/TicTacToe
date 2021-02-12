@@ -13,8 +13,7 @@
 
             <Setter Property="Background" Value="White"/>
             <Setter Property="BorderThickness" Value="0.4"/>
-            <Setter Property="FontSize" Value="100"/>
-            
+            <Setter Property="FontSize" Value="100"/>           
 
         </Style>
         
